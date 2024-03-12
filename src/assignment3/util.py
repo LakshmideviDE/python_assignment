@@ -5,8 +5,3 @@ def mutate_string():
 
     result = input_string[:position] + character + input_string[position + 1:]
     return result
-
-
-# Call the function
-#mutate_string()
-

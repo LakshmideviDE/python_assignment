@@ -1,5 +1,5 @@
 import unittest
-from python_assignment.src.Assignment2.util import find_runner_up_score
+from python_assignments.src.Assignment2.util import find_runner_up_score
 class MyTestCase(unittest.TestCase):
     def test_find_runner_up_score(self):
         n=5

@@ -1,5 +1,5 @@
 import unittest
-from python_assignment.src.Assignment1.util import cal_avg
+from python_assignments.src.Assignment1.util import cal_avg
 
 class TestCalAvg(unittest.TestCase):
     def test_cal_avg(self):
