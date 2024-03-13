@@ -4,3 +4,4 @@ def find_runner_up_score(n, arr):
     runner_up = max(scores)
     return runner_up
 arr = list(map(int, input().split()))
+
