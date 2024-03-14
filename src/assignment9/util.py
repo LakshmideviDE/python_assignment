@@ -14,4 +14,4 @@ def time_diff(timestamp1, timestamp2):
     # Calculate the time difference in seconds
     difference_seconds = abs(int((time1_utc - time2_utc).total_seconds()))
 
-    return difference_seconds
+    return difference_seconds 
