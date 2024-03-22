@@ -1,5 +1,4 @@
-from python_assignments.src.assignment6.util import patt_l
-
+from python_assignments.src.assignment6.util import print_pattern
 def main():
     thickness = int(input("Enter the thickness: "))
     character = input("Enter the character: ")
