@@ -8,3 +8,4 @@ def cal_avg(n, student_data, query_name):
     if query_name in student_marks:
         avg = sum(student_marks[query_name]) / len(student_marks[query_name])
         return "{:.2f}".format(avg)
+        

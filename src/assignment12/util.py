@@ -6,3 +6,4 @@ def determinant(matrix):
     c, d = matrix[1]
 
     return round((a * d - b * c), 2)
+    

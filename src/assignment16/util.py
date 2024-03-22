@@ -9,8 +9,3 @@ def solve(integers):
     pile.appendleft(stack.pop())
     return 'Yes' if pile == deque(sorted_integers) else 'No'
 
-# if __name__ == '__main__':
-#     T = int(input())
-#     for _ in range(T):
-#         _, integers = int(input()), input()
-#         print(solve(integers))

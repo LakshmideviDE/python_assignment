@@ -10,5 +10,3 @@ def array_operations(input_array):
     print([result[0] for result in results])
     print([result[1] for result in results])
     print([result[2] for result in results])
-
-
