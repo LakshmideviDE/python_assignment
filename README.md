@@ -15,11 +15,17 @@ Python Assignment
                 For each substring, it removes duplicate characters and concatenates the 
                 unique characters. It stores the resulting unique substrings in a list. 
                 Finally, it joins the unique substrings with newline characters and returns the result. 
+                
 •	Assignment5 - string format print the decimal, octal, hexa decimal and binary
+
 •	Assignment6 - print_pattern input the thickness and print according to the thickness
+
 •	Assignment7 - calendar module input a date and print the day name of the particular date. 
+
 •	Assignment8 - avg input the data as table format with columns - id, student_name, marks, class 
                 and find the average of the marks of all the students. 
+                
 •	Assignment9 - find the difference between time zones 
+
 •	Assignment10 - find the floor, ceil and rint
 
