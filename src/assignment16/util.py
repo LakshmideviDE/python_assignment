@@ -8,4 +8,3 @@ def solve(integers):
         pile.appendleft(stack.popleft() if stack[0] >= stack[-1] else stack.pop())
     pile.appendleft(stack.pop())
     return 'Yes' if pile == deque(sorted_integers) else 'No'
-
